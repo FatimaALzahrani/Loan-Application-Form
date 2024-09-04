@@ -1,0 +1,20 @@
+#model {
+    background-color: rgba(0, 0, 0, 0.466);
+    width: 100%;
+    min-height: 100vh;
+    position:absolute;
+}
+
+h2 {
+    background-color: white;
+    margin-top:40vh;
+    width: 100%;
+    padding: 10px;
+}
+
+.red{
+    color: red;
+}
+.green {
+    color: green;
+}
